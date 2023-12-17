@@ -1,6 +1,7 @@
 /backup
 /frp/frpc
 /libraries
+/logs
 /mods
 /tmp
 server.jar
