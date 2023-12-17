@@ -1,0 +1,11 @@
+{
+  "port": 25565,
+  "maxPlayers": 6,
+  "GameMode": "survival",
+  "motd": "2612",
+  "UseUPnP": false,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "EnablePvP": true,
+  "CopyToClipboard": true
+}

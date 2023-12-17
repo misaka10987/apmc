@@ -1,0 +1,168 @@
+{
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-11-17 04:45:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-11-17 04:43:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-11-16 03:42:27 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2023-11-16 03:56:21 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_ring": {
+    "criteria": {
+      "has_item": "2023-11-16 03:56:28 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_helmet": {
+    "criteria": {
+      "has_prev_tier": "2023-11-16 03:56:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-11-16 03:42:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2023-11-16 03:56:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-11-17 04:45:40 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_mirror": {
+    "criteria": {
+      "has_item": "2023-11-16 03:56:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-11-17 04:37:13 +0800",
+      "minecraft:river": "2023-11-17 04:34:02 +0800",
+      "minecraft:swamp": "2023-11-17 04:37:09 +0800",
+      "minecraft:plains": "2023-11-16 03:39:32 +0800"
+    },
+    "done": false
+  },
+  "botania:recipes/botania/terrasteel_boots": {
+    "criteria": {
+      "has_prev_tier": "2023-11-16 03:56:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-17 04:35:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-11-17 04:36:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-11-16 03:42:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-11-16 04:03:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-11-16 03:42:28 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
